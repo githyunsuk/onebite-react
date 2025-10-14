@@ -9,6 +9,7 @@ function App() {
       <Header />
       <Editor />
       <List />
+      안녕하세요~~
     </div>
   );
 }
